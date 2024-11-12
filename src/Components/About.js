@@ -11,12 +11,15 @@ const About = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
-            Hi, my name is <b>Devansh Sahni</b> and I am from New Delhi, India.
-            I'm a <b>MERN stack web developer</b> and a final year college student pursuing <b>BTech in CSE</b>. <br/><br/>
-            I have done an internship as a <b>software developer</b> at GoalFi which is a fintech startup.
-            I love to create original projects with beautiful designs, you can check out some of my work in the projects section.<br/><br/>
-            I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
-            Apart from coding I love to do photography, you can check out some of my shots here <a href="https://www.instagram.com/devansh_sahni_/?hl=en" target='_blank'>Instagram.</a>
+            Hi, I'm <b>Harrison</b>, a soon-to-be graduate with a <b>Bachelor's in Computer Science</b>. 
+            My technical skills span backend development in <b>Spring Boot</b> and <b>Java</b>, as well as 
+            front-end work with <b>React</b> (JavaScript/TypeScript). I’m experienced in the 
+            <b>Agile Scrum</b> process and bring strong collaboration skills from group projects. 
+            I have a solid foundation in <b>Git</b>, <b>C</b>, <b>Python</b>, and <b>Linux shell scripting</b>. 
+            Additionally, I've worked on personal projects like a <b>stock website built in React</b> 
+            that earned me a scholarship in UC’s summer startup program. <br /><br />
+            Currently, I’m looking for an internship, ideally focused on <b>backend development</b> in 
+            <b>cloud environments</b> or <b>embedded systems</b> work using <b>C</b>.
           </p>
         </div>
 

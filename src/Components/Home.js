@@ -13,7 +13,7 @@ const Home = () => {
 
         <div className='HomeText'>
           <h1>Hi There!</h1>
-          <h1>I'M <b>DEVANSH SAHNI</b></h1>
+          <h1>I'M <b>HARRISON CAMM</b></h1>
           <Typed/>   
         </div>
 
@@ -29,14 +29,15 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
-            I love the process of changing a raw idea into a website or a product 
-            that impacts lives. 
-            I want to do work that challenges me as a developer & work that I can 
-            be proud of.<br /><br />
-            I am fluent in <b>C++</b> and know a bit of <b>Python</b> and am working on a few 
-            projects in the <b>MERN</b> stack.<br />
-            I plan to learn <b>Next.js</b>, <b>Three.js</b> and<b> Typescript</b> in the near future. <br /><br />
-            Also, I love <b>coffee</b> <CiCoffeeCup style={{scale:"1.5", rotate:"15deg"}}/>   
+            Hi, I'm <b>Harrison</b>, a soon-to-be graduate with a <b>Bachelor's in Computer Science</b>. 
+            My technical skills span backend development in <b>Spring Boot</b> and <b>Java</b>, as well as 
+            front-end work with <b>React</b> (JavaScript/TypeScript). I’m experienced in the 
+             <b>Agile Scrum</b> process and bring strong collaboration skills from group projects. 
+            I have a solid foundation in <b>Git</b>, <b>C</b>, <b>Python</b>, and <b>Linux shell scripting</b>. 
+            Additionally, I've worked on personal projects like a <b>stock website built in React</b> 
+            that earned me a scholarship in UC’s summer startup program. <br /><br />
+            Currently, I’m looking for an internship, ideally focused on <b>backend development</b> in 
+            <b>cloud environments</b> or <b>embedded systems</b> work using <b>C</b>.
           </p>
         </div>
         <Tilt>
