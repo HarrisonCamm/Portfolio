@@ -1,5 +1,5 @@
 import React from 'react'; 
-import {FaReact, FaPython, FaGitAlt, FaGithub, FaNpm, FaFigma, FaBootstrap} from "react-icons/fa";
+import {FaReact, FaGitAlt, FaGithub, FaNpm, FaFigma, FaBootstrap} from "react-icons/fa";
 import {DiNodejs, DiJavascript1} from "react-icons/di";
 import {SiExpress, SiMongodb, SiPostman} from "react-icons/si";
 
