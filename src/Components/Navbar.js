@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import {AiOutlineHome} from "react-icons/ai";
 import {BsPerson, BsCodeSlash} from "react-icons/bs";
 import {CgFileDocument} from "react-icons/cg";
+import {FaBlog} from "react-icons/fa";
 
 
 const Nav = () => {
@@ -55,6 +56,7 @@ const Nav = () => {
             <li onClick={hideMenu}><Link to="/About"><BsPerson/> About</Link></li>
             <li onClick={hideMenu}><Link to="/Project"><BsCodeSlash/> Project</Link></li>
             <li onClick={hideMenu}><Link to="/Resume"><CgFileDocument/> Resume</Link></li>
+            <li onClick={hideMenu}><Link to="/Posts"><FaBlog/> Posts</Link></li>
         </ul>
         
     </nav>

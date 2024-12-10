@@ -4,6 +4,7 @@ import Nav from './Components/Navbar';
 import Footer from "./Components/Footer";
 import Home from "./Components/Home";
 import About from "./Components/About";
+import Posts from "./Components/Posts";
 import Resume from "./Components/Resume";
 import Project from "./Components/Projects";
 import MoveToTop from "./Components/MoveToTop";
@@ -50,6 +51,7 @@ function App() {
         <Route path="/About" element={<About/>}/>
         <Route path="/Project" element={<Project/>}/>
         <Route path="/Resume" element={<Resume/>}/>
+        <Route path="/Posts" element={<Posts/>}/>
       </Routes>
       
       <Footer/>
